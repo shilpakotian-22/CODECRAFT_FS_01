@@ -24,9 +24,9 @@ CODECRAFT_FS_01/ │── auth-system/ │   │── frontend/ │   │   �
 
 ## 🛠 Setup Instructions
 ### Backend
-1. Go inside backend folder 
+1. Go inside auth-system folder 
    ```bash
-   cd backend
+   cd auth-system
    npm install
    node server.js
 ### MongoDB 
